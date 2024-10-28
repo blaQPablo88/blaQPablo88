@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a Dynamic Demo for Local Network Profile Management<br>Looking to collaborate with UI-developers on an ecomm-clothing store (currently private)<br>Currently learning Python<br>Ask me about database configurations<br>Fun fact: I dont know /*System.out.print("I don't know Java, I barely talk proper")*/
+I am currently working on a Dynamic Demo for Local Network Profile Management<br>Looking to collaborate with UI-developers on an ecomm-clothing store (currently private)<br>Currently learning Python<br>Ask me about database configurations<br>Fun fact: I dont know /**System.out.print("I don't know Java, I barely talk proper")**/
 
 
 ## 🌐 Socials:
