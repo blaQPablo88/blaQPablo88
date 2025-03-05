@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a Dynamic Demo for Local Network Profile Management.<br>Looking to collaborate with UI-developers on my ecomm-clothing store (which is private): base language PHP, so preferably Laravel.<br>Learned Python in 7 months.<br>Ask me about database configurations.<br>Big flex: Trading Bots - (MQL4). And my ecom - (PHP) .<<br>Fun fact: **System.out.print("I don't know Java, I barely talk proper")**
+I am currently working on a Dynamic Demo for Local Network Profile Management.<br>Looking to collaborate with UI-developers on my ecomm-clothing store (which is private): base language PHP, so preferably Laravel.<br>Learned Python in 7 months.<br>Ask me about database configurations.<br>Big flex: Trading Bots - (MQL4). And my ecom - (PHP) .<br>Ohh and btw, fun fact: **System.out.print("I don't know Java, I barely talk proper")**...lol
 
 
 ## 🌐 Socials:
